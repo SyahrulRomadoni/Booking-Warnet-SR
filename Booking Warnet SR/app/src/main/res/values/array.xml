@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Game Fantasia 01</item>
+        <item>Game Fantasia 02</item>
+        <item>Game Fantasia 03</item>
+        <item>Game Fantasia 04</item>
+        <item>Game Fantasia 05</item>
+        <item>Game Fantasia 06</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Harga Rp 750.000</item>
+        <item>Harga Rp 500.000</item>
+        <item>Harga Rp 500.000</item>
+        <item>Harga Rp 500.000</item>
+        <item>Harga Rp 500.000</item>
+        <item>Harga Rp 1.000.000</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+        <item>Game yang bergenre fantasia ke dunia sebelah
+        </item>
+    </string-array>
+    <string-array name="place_types">
+        <item>SR-001</item>
+        <item>SR-002</item>
+        <item>SR-003</item>
+        <item>SR-004</item>
+        <item>SR-005</item>
+        <item>SR-006</item>
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+</resources>

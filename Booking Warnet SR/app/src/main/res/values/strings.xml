@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"SRPraktikumDesignLibrary</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Game Fantasia </string>
+    <string name="item_desc">Harga 150.000
+    </string>
+    <string name="detail_desc">Game yang bergenre fantasia ke dunia sebelah.
+    </string>
+    <string name="detail_location">"Jepang"</string>
+</resources>
